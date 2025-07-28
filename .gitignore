@@ -1,0 +1,10 @@
+# Node
+node_modules/
+*.log
+
+# Build
+backend/dist/
+frontend/dist/
+
+# Env
+.env
