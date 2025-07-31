@@ -1,3 +1,15 @@
+
+# Node
+node_modules/
+*.log
+
+# Build
+backend/dist/
+frontend/dist/
+
+# Env
+.env
+=======
 # Dependencies
 node_modules/
 */node_modules/
@@ -41,3 +53,4 @@ coverage/
 # Temporary files
 tmp/
 temp/
+main

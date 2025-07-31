@@ -24,6 +24,16 @@
 - **API Gateway**: RESTful and GraphQL APIs for third-party integrations
 - **Multi-Tenancy Support**: Enterprise-ready with role-based access control (RBAC)
 
+### Getting Started
+
+```bash
+# backend
+cd backend && npm install && npm run dev
+
+# frontend (separate terminal)
+cd frontend && npm install && npm run dev
+```
+
 ##  Architecture
 
 ### High-Level Architecture
